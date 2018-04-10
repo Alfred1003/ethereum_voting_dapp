@@ -4,8 +4,8 @@ Simple Ethereum Voting dapp using Truffle framework
 ## Usage
 The below blog posts explain each chapter in detail:
 
-Chapter 1: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2#.yqxqj0hff
+Chapter 1: http://geeksai.com/2018/04/08/full-stack-voting-part1/
 
-Chapter 2: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f
+Chapter 2: http://geeksai.com/2018/04/09/full-stack-voting-part2/
 
-Chapter 3: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-3-331c2712c9df#.ldky416p7
+Chapter 3: http://geeksai.com/2018/04/10/full-stack-voting-part3/
